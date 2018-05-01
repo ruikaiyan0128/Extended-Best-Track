@@ -17,20 +17,20 @@ East Pac HURDAT Downloaded Aug, 15 2012
 Currently Supported by NESDIS/RAMMB and CIRA
 
 
-         Previous project contributors
+Previous project contributors
 
-               Mark DeMaria
+Mark DeMaria
 NESDIS/StAR/Regional and Mesoscale Meteorology Branch
-       CIRA/Colorado State University
-            West Laporte Avenue
-           Fort Collins, CO 80523
+CIRA/Colorado State University
+West Laporte Avenue
+Fort Collins, CO 80523
 
- with contributions from
+with contributions from
 Jeremy Pennington and Krislyn Williams
 formerly of the
 Tropical Prediction Center/National Hurricane Center
 11691 SW 17th Street
-  Miami, FL 33165
+Miami, FL 33165
 
 The National Hurricane Center (NHC) maintains a climatology of all
 Atlantic tropical cyclones since 1851. For each storm, the data file contains
